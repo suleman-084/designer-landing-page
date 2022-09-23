@@ -144,8 +144,8 @@ ion-icon{
     right: 0;
     position: absolute;
     bottom: 19.25rem;
-    right: 14.05rem;
-
+     right: 14.05rem;
+  
 }
 .circle2{
     height: 2.5vh;
@@ -155,5 +155,6 @@ ion-icon{
     right: 0;
     position: absolute;
     bottom: 14rem;
-    /* right: 24.99rem; */
+    right: 50rem;
+   
 }
