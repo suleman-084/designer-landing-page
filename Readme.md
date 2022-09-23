@@ -26,4 +26,4 @@
 
 - how to create buttons with transparency
 
-## [Live-link](https://designer-landing-page-10.netlify.app/) of the project
+<!-- ## [Live-link](https://designer-landing-page-10.netlify.app/) of the project -->
