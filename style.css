@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Montserrat:ital,wght@1,700&family=Orbitron:wght@400;600;900&family=Oswald:wght@700&family=Poppins:ital,wght@0,500;0,700;0,900;1,300&family=Righteous&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+
+}
+body{
+    background-color: aqua;
+    height: 100vh;
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.608)  50%,rgba(0, 0, 0, 0.603)50%) ,url(./images/bgc6.jpg);
+    background-size: 100%  100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-family: 'poppins';
+}
+.main1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo{
+    height: 50px;
+    margin-top: 60px;
+    margin-left: 50px;
+
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right:8rem ;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 25px;
+}
+.list1{
+    display: flex;
+    flex-direction: row;
+    margin-top: -10px;
+}
+.nav-list{
+    margin-right: 70px;
+}
+ion-icon{
+    font-size: 25px;
+}
+.class11{
+    font-size:17px ;
+}
+.main2{
+    margin-top: 7rem;
+    display: flex;
+    flex-direction: row;
+}
+.text11{
+    right:0;
+    position:absolute ;
+}
+.text{
+    margin-left: 90px;
+}
+.text h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+.text h3{
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 2.5rem;
+    border: 1px solid #fff;
+    border-radius:40px ;
+    width: fit-content;
+    padding: 10px 30px;
+}
+.text11{
+    background: rgba(175, 174, 174, 0.615);
+    margin-right: 10rem;
+    margin-top: -2.5rem;
+    width: fit-content;
+    padding: 20px 30px;
+}
+.text11 ion-icon{
+    font-size: 30px;
+    border: 1px solid #Fff;
+    background: #Fff;
+    color: black;
+    padding: 5px 30px;
+    border-radius: 40px;
+}
+.text11 h4{
+    font-weight: 500;
+}
+.text12{
+    background:rgba(175, 174, 174, 0.615) ;
+    width: fit-content;
+    margin-right: 2rem;
+    padding: 20px 30px;
+}
+.text12{
+    display: flex;
+    flex-direction: column;
+    margin-top: 12rem;
+    margin-left: 6rem ;
+   
+}
+.text12 ion-icon{
+     font-size: 30px;
+     border: 1px solid #Fff;
+     background: #Fff;
+     color: black;
+     padding: 5px 20px;
+     border-radius: 40px
+
+}
+.text12 h4{
+    font-weight: 500;
+}
+.line{
+    background-color: #fff;
+    height: 10vh;
+    width: 0.1vw;
+    position: relative;
+    left: 1300px;
+    bottom: 15.6rem;
+}
+.line1{
+    background-color: #fff;
+    height: 0.2vh;
+    width: 5vw;
+    position: relative;
+    left: 1041.75px;
+    bottom: 10rem;
+    
+}
+.circle1{
+    height: 2.25vh;
+    width: 1.25vw;
+    background-color: #fff;
+    border-radius: 50%;
+    right: 0;
+    position: absolute;
+    bottom: 19.25rem;
+    right: 14.05rem;
+
+}
+.circle2{
+    height: 2.5vh;
+    width:1.25vw;
+    background-color: #fff;
+    border-radius: 50%;
+    right: 0;
+    position: absolute;
+    bottom: 14rem;
+    right: 24.99
+    rem;
+}
